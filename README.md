@@ -1,0 +1,1 @@
+[![Python application](https://github.com/shekeraoleksandr/cicd_middle_test/actions/workflows/python-app.yml/badge.svg)](https://github.com/shekeraoleksandr/cicd_middle_test/actions/workflows/python-app.yml)
