@@ -1,0 +1,1 @@
+web: gunicorn mkr2.wsgi --log-file -
